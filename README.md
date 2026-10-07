@@ -34,6 +34,10 @@ En el script de la esfera tengo la referencia al cubo y cilindro (más bien al c
 
 ## Ejercicio 5
 
+En ese ejercicio se han establecido tres direcciones opuestas
+para cada objeto. Cuando se presiona la tecla space, los objetos
+se alejan.
+
 ![Ejercicio 5](media/ejercicio-5.gif)
 
 ## Ejercicio 6
